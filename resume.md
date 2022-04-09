@@ -29,7 +29,7 @@ September 2019 - Present
 - Enter invoices in the system, run inventory reports
 - Pick up physical invoices from campus dining locations 
 
-# Volunteer Experience
+# Volunteering Experience
 
 ## Seattle Chinese Chorus (Mercer Island, WA)
 *A Chinese choir made of mainly senior citizens*
