@@ -15,7 +15,7 @@ September 2015 - June 2019
 ## University of Washington (Seattle, WA)
 September 2019 - Present
 
-# Work Experience 
+# Work Experience
 
 ## McDonald's (Mercer Island, WA)
 ### Crewmate (August 2017 - September 2019)
@@ -27,7 +27,7 @@ September 2019 - Present
 ### Student System Assistant (September 2021 - Present)
 
 - Enter invoices in the system, run inventory reports
-- Pick up physical invoices from campus dining locations 
+- Pick up physical invoices from campus dining locations
 
 # Volunteering Experience
 
